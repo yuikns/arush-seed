@@ -1,0 +1,10 @@
+[package]
+name = "arush-seed"
+version = "0.1.0"
+authors = ["Yu Jing <yu@argcv.com>"]
+
+
+[dependencies.arush]
+git = "https://github.com/yuikns/arush"
+
+
