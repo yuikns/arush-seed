@@ -11,5 +11,5 @@ authors = ["Yu Jing <yu@argcv.com>"]
 #[dependencies]
 #arush = { git = "https://github.com/yuikns/arush.git", rev = "36896614" }
 rand="0.3.0"
-arush="0.0.1"
+r="0.0.1"
 
