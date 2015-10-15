@@ -1,7 +1,7 @@
 extern crate r;
 
-use r::utils::it_works;
+use r::utils;
 
 fn main() {
-    it_works();
+    utils::greeting("rs\nNext Line?\n");
 }

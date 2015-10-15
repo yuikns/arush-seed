@@ -1,15 +1,10 @@
 [package]
-name = "arush-seed"
-version = "0.1.0"
+name = "rs"
+version = "0.0.1"
 authors = ["Yu Jing <yu@argcv.com>"]
 
-
-#[dependencies.r]
-#git = "https://github.com/yuikns/r"
-
 [dependencies]
-#r = {path="../r"}
-r = { git = "https://github.com/yuikns/r.git", rev = "0dc4ef" }
+r = {path="../r"}
 #rand="0.3.0"
-# r="0.0.1"
+
 
